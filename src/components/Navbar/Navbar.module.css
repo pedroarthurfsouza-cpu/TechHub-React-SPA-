@@ -1,0 +1,25 @@
+.navbar {
+    border: 1px solid red;
+    background-color: #f8f9fa;
+
+}
+
+.navbar h1 {
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.navbar ul {
+
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.navbar ul li {
+    display: inline;
+    padding: 10px;
+    padding-left: 20px;
+}

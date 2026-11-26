@@ -1,8 +1,15 @@
 import React from 'react'
+import styles from './Home.module.css'
 
 function Home() {
     return (
-        <div>Home</div>
+        <div className={styles.home}>
+            <container>
+
+            </container>
+
+
+        </div>
     )
 }
 
