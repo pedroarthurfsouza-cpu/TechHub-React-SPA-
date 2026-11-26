@@ -3,13 +3,7 @@ import styles from './Home.module.css'
 
 function Home() {
     return (
-        <div className={styles.home}>
-            <container>
-
-            </container>
-
-
-        </div>
+        <main className={styles.home} />
     )
 }
 
