@@ -6,7 +6,7 @@ import styles from './News.module.css'
 
 const newsCards = [
     {
-        title: 'CESUPA é hackeado e todos alunos são aprovados em Cálculo 1',
+        title: 'CESUPA é hackeado e todos alunos são aprovados em Cálculo ',
         image: imageCard01,
         description: 'Instituição de ensino é hackeada e subtamente todos os aluno da matéria de Cálculo 1 são aprovados. A polícia suspeita do aluno Ricardo Kenji Hidaka, que é conhecido por suas habilidades em programação e hacking. A investigação está em andamento para determinar a extensão do ataque e identificar os responsáveis.',
     },

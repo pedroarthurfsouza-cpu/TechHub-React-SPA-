@@ -15,10 +15,10 @@ function About() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Preencher</td>
-                        <td>Preencher</td>
-                        <td>Preencher</td>
-                        <td>Preencher</td>
+                        <td>Pedro Arthur</td>
+                        <td>27 de Novembro de 2026</td>
+                        <td>Desenvolvimento Web</td>
+                        <td>React, JavaScript, CSS</td>
                     </tr>
                 </tbody>
             </table>
