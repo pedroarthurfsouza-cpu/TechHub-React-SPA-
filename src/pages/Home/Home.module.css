@@ -1,12 +1,27 @@
 .home {
     box-sizing: border-box;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    min-height: 0;
     padding: 20px;
     background-color: #3e8bd8;
-    border: 4px solid red;
     flex: 1;
+}
+
+.newsLink {
+    display: inline-block;
+    padding: 14px 24px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #000;
+    background-color: #fff;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.newsLink:hover,
+.newsLink:focus-visible {
+    background-color: #f0f0f0;
 }

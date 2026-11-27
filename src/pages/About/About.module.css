@@ -1,0 +1,26 @@
+.about {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    padding: 32px 20px;
+}
+
+.activityTable {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.activityTable th,
+.activityTable td {
+    border: 1px solid #000;
+    padding: 12px 16px;
+}
+
+@media (max-width: 600px) {
+    .activityTable th,
+    .activityTable td {
+        padding: 8px;
+    }
+}
